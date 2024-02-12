@@ -14,7 +14,7 @@ int seleziona_cavallo(int rig);
 
 int simulatore_gara(bool mat[][DIM], int rig, int col);
 
-int inserisci_elemento_riga(bool mat[][DIM], int idx_rig, int col);
+int inserisci_elemento_riga(bool mat[][DIM], int idx_riga, int col);
 
 
 int main() {
